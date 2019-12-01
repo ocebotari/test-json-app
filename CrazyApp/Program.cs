@@ -5,8 +5,8 @@ namespace CrazyApp
 {
     class Program
     {
-        const string TheAFile = @"C:\Users\ocebotar\Documents\20191022 Technical Assessment Global Blue\A.json";
-        const string TheBFile = @"C:\Users\ocebotar\Documents\20191022 Technical Assessment Global Blue\B.json";
+        const string TheAFile = @"data\A.json";
+        const string TheBFile = @"data\B.json";
 
         static void Main(string[] args)
         {
